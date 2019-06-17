@@ -1,1 +1,1 @@
-# git-kurs
+# Git-Kurs-Materialien
